@@ -1,0 +1,11 @@
+main {
+  width: 1400px;
+  margin: 0 auto;
+}
+main .title {
+  background: #d8a08f;
+  padding: 20px;
+}
+main .title a {
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */

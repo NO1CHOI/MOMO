@@ -1,0 +1,12 @@
+$main:#d8a08f;
+$sub:#b05c59;
+
+main {width:1400px; margin: 0 auto;
+    .title {
+        background:$main;
+        padding:20px;
+        a {color:#fff;}
+    }
+    .contents1 {}
+    .contents2 {}
+}
